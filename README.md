@@ -178,7 +178,8 @@ flowchart TD
 <tr>
 <td width="50%" align="center">
 <b>🎨 워크플로우 시나리오 화면</b><br>
-<em>Screenshot:![Make 시나리오 화면](./screenshots/make_scenario.png)
+<img src="./screenshots/make_scenario.png" width="700" alt="Make 시나리오 화면">
+
 
 <br>
 [Google Forms] → [Router]<br>
